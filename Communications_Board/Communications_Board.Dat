@@ -1,0 +1,34 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=LibRef~String~LibRef~100|Field=Manufacturer~String~Manufacturer~100|Field=Manufacturer Part Number~String~Manufacturer Part Number~100|Field=Manufacturer PN~String~Manufacturer PN~100|Field=Quantity~Integer~Quantity~100|Field=Supplier 1~String~Supplier 1~100|Field=Supplier Part Number 1~String~Supplier Part Number 1~100|Field=Supplier Stock 1~Integer~Supplier Stock 1~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Free Documents|ReportField=ProjectFullPath~Free Documents|ReportField=Title~Bill of Materials For Schematic Document [Communications_Board.SchDoc]|ReportField=TotalQuantity~44|ReportField=ReportTime~2:56:07 PM|ReportField=ReportDate~3/20/2017|ReportField=ReportDateTime~3/20/2017 2:56:07 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~ECE Department|ReportField=Address2~University of Canterbury|ReportField=Address3~Christchurch 8041|ReportField=Address4~New Zealand|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/20/2017|ReportField=CurrentTime~2:55:33 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~P:\wacky_race_team7\Communications_Board\Communications_Board.SchDoc|ReportField=DocumentName~Communications_Board.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Igor Bubanja, TIm Oorschot|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/20/2017|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.97:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4 (210 x 297 mm):PaperIndex=9|ReportField=ProjectName~|ReportField=Revision~3|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~3|ReportField=Time~|ReportField=Title~Communications Board|ReportField=DataSourceFileName~Communications_Board.SchDoc|ReportField=DataSourceFullPath~P:\wacky_race_team7\Communications_Board\Communications_Board.SchDoc
+1|CAP CER 10pF COG/NPO 50V 0603|C1, C2|CC_10pF_0603||||2|||
+2|CAP CER 100nF X7R +-10% 50V 0603|C3, C17|CC_100nF_0603||||2|||
+3|Schottky Diode|D?|D Schottky||||1|||
+4|LED Dk Green 430mcd 0603 SMD|DL1|DL_150060GS75000|WURTH ELEKTRONIK|150060GS75000||1|Farnell|2322070|6046
+5|LED Yellow 120mcd 0603 SMD|DL2|DL_150060YS75000|WURTH ELEKTRONIK|150060YS75000||1|Farnell|2322074|16222
+6|LED Red 250mcd 0603 SMD|DL3|DL_150060RS75000|WURTH ELEKTRONIK|150060RS75000||1|Farnell|2322071|9262
+7|USB 2.0, Right Angle, SMT, B Type, Receptacle, 5 Position,|H1|JS_USB_MINI_B_SMT|FCI||10033526-N3212MLF|1|Farnell|1824416|
+8|IDC Header, 1,27mm, 10-Pin, Vert, SMT|H2|JB_HDR_IDC_5X2_VERT|TE Connectivity|1-188275-0||1|Digi-Key|A99476TR-ND|7200
+9|IDC Header, 1,27mm, 20-Pin, Vert, SMT|H3|JB_HDR_IDC_10X2_VERT|TE Connectivity|2-188275-0||1|Digi-Key|A99481CT-ND|4480
+10|Header, 3-Pin|P?|Header 3||||1|||
+11|RES 62 OHM 1/10W 5% 0603 SMD|R1|RS_62R||||1|||
+12|RES 220 OHM 1/10W 5% 0603 SMD|R2, R4|RS_220R||||2|||
+13|RES 2.2K OHM 1/10W 5% 0603 SMD|R3, R9, R10|RS_2K2||||3|||
+14|RES 1.0K OHM 1/10W 5% 0603 SMD|R5, R6|RS_1K||||2|||
+15|RES 27 OHM 1/10W 5% 0603 SMD|R7, R8|RS_27R||||2|||
+16|RES 100K OHM 1/10W 5% 0603 SMD|R11, R12, R13, R14, R15|RS_100K||||5|||
+17|RES 27K OHM 1/10W 5% 0603 SMD|R16|RS_27K||||1|||
+18|RES 47.0K OHM 1/10W 5% 0603 SMD|R17|RS_47K||||1|||
+19|SWITCH TACTILE SPST-NO SMD|SW1|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell|1437634|5210
+20|SWITCH TACTILE SPST-NO SMD|SW2|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell|1437634|5210
+21|Test Point 2.0X0.9X1.2mm SMD|TP1|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+22|Test Point 2.0X0.9X1.2mm SMD|TP2|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+23|Test Point 2.0X0.9X1.2mm SMD|TP3|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+24|Test Point 2.0X0.9X1.2mm SMD|TP4|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+25|Test Point 2.0X0.9X1.2mm SMD|TP5|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+26|Test Point 2.0X0.9X1.2mm SMD|TP6|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+27|Test Point 2.0X0.9X1.2mm SMD|TP7|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+28|Test Point 2.0X0.9X1.2mm SMD|TP8|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+29|Test Point 2.0X0.9X1.2mm SMD|TP9|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+30|Test Point 2.0X0.9X1.2mm SMD|TP10|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+31|Test Point 2.0X0.9X1.2mm SMD|TP11|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
+32|IC MCU 32BIT 512KB FLASH 64LQFP|U1|SE_ATSAM4S16BA-MU|Atmel|ATSAM4S8BA-ANR||1|Digi-Key|ATSAM4S8BA-ANRCT-ND|0
+33|18.432 MHZ 4PF  6.0X3.5mm SMD|Y1|XT_CRYSTAL_18.432MHz_13pF|CTS-Frequency Controls|406C35B18M43200||1|Digi-Key|CTX668CT-ND|913
