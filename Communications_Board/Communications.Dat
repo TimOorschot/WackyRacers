@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Supplier 1~String~Supplier 1~100|Field=Supplier 2~String~Supplier 2~100|Field=Supplier Part Number 1~String~Supplier Part Number 1~100|Field=Supplier Part Number 2~String~Supplier Part Number 2~100|Field=Supplier Stock 1~Integer~Supplier Stock 1~100|Field=Supplier Stock 2~Integer~Supplier Stock 2~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Communications.PrjPcb|ReportField=ProjectFullPath~P:\wacky_race_team7\Communications_Board\Communications.PrjPcb|ReportField=Title~Bill of Materials For Project [Communications.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~96|ReportField=ReportTime~3:33:54 PM|ReportField=ReportDate~3/20/2017|ReportField=ReportDateTime~3/20/2017 3:33:54 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~ECE Department|ReportField=Address2~University of Canterbury|ReportField=Address3~Christchurch 8041|ReportField=Address4~New Zealand|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/20/2017|ReportField=CurrentTime~3:13:34 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~P:\wacky_race_team7\Communications_Board\Communications_Board.SchDoc|ReportField=DocumentName~Communications_Board.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Igor Bubanja, TIm Oorschot|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/20/2017|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.97:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A4 (210 x 297 mm):PaperIndex=9|ReportField=ProjectName~Communications.PrjPcb|ReportField=Revision~3|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~3|ReportField=Time~|ReportField=Title~Communications Board|ReportField=DataSourceFileName~Communications.PrjPcb|ReportField=DataSourceFullPath~P:\wacky_race_team7\Communications_Board\Communications.PrjPcb
+1|RN41|Bluetooth RN41|*1||RN41|1||||||
+2|10pF|CAP CER 10pF COG/NPO 50V 0603|C1, C2|CAPC1608L|CC_10pF_0603|2||||||
+3|100nF|CAP CER 100nF X7R +-10% 50V 0603|C3, C4, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19|CAPC1608L|CC_100nF_0603|12||||||
+4|10uF|CAP CER 10UF X5R +-20% 10V 0603|C5, C6, C8, C9|CAPC1608L|CC_10uF_0603|4||||||
+5|Cap|Capacitor|C7|RAD-0.3|Cap|1||||||
+6|4.7uF|CAP CER 4.7uF X5R +-20%  10V 0603|C20|CAPC1608N|CC_4.7uF_0603|1||||||
+7|D Schottky|Schottky Diode|D1, D4|SMB|D Schottky|2||||||
+8|LED0|Typical INFRARED GaAs LED|D2, D3|LED-0|LED0|2||||||
+9|Dark Green|LED Dk Green 430mcd 0603 SMD|DL1|WL-SMCW0603|DL_150060GS75000|1|Farnell||2322070||6046|
+10|Yellow|LED Yellow 120mcd 0603 SMD|DL2|WL-SMCW0603|DL_150060YS75000|1|Farnell||2322074||16222|
+11|Red|LED Red 250mcd 0603 SMD|DL3|WL-SMCW0603|DL_150060RS75000|1|Farnell||2322071||9262|
+12|JS_USB_MINI_B|USB 2.0, Right Angle, SMT, B Type, Receptacle, 5 Position,|H1|USB/SM0.8-6H5|JS_USB_MINI_B_SMT|1|Farnell||1824416|||
+13|I2C|IDC Header, 1,27mm, 10-Pin, Vert, SMT|H2|188275-10|JB_HDR_IDC_5X2_VERT|1|Digi-Key||A99476TR-ND||7200|
+14|ARM JTAG|IDC Header, 1,27mm, 20-Pin, Vert, SMT|H3|188275-20|JB_HDR_IDC_10X2_VERT|1|Digi-Key||A99481CT-ND||4480|
+15|Ferrite Bead|Ferrite Bead, Rdc 0.3R, Z100MHZ 600R, Imax 1A, SMD 1206|L1, L2, L3|INDC3216L|IN_Ferrite-Bead|3|Farnell||1612060||79162|
+16|Header 3|Header, 3-Pin|P1|HDR1X3|Header 3|1||||||
+17|62R|RES 62 OHM 1/10W 5% 0603 SMD|R1|RESC1608L|RS_62R|1||||||
+18|220R|RES 220 OHM 1/10W 5% 0603 SMD|R2, R4|RESC1608L|RS_220R|2||||||
+19|2K2|RES 2.2K OHM 1/10W 5% 0603 SMD|R3, R9, R10|RESC1608L|RS_2K2|3||||||
+20|1K|RES 1.0K OHM 1/10W 5% 0603 SMD|R5, R6|RESC1608L|RS_1K|2||||||
+21|27R|RES 27 OHM 1/10W 5% 0603 SMD|R7, R8|RESC1608L|RS_27R|2||||||
+22|100K|RES 100K OHM 1/10W 5% 0603 SMD|R11, R12, R13, R14, R15|RESC1608L|RS_100K|5||||||
+23|27K|RES 27K OHM 1/10W 5% 0603 SMD|R16|RESC1608N|RS_27K|1||||||
+24|47K|RES 47.0K OHM 1/10W 5% 0603 SMD|R17|RESC1608N|RS_47K|1||||||
+25|Res1|Resistor|R18, R19, R20, R21, R22|AXIAL-0.3|Res1|5||||||
+26|1R|RES 1R OHM 1/4W 5% 1206 SMD|R23|RESC3216L|RT_1R|1||||||
+27|Sleep/Wake Up|SWITCH TACTILE SPST-NO SMD|SW1|KSR211G|WS_KSR211G LFS|1|Farnell||1437634||5210|
+28|Reset|SWITCH TACTILE SPST-NO SMD|SW2|KSR211G|WS_KSR211G LFS|1|Farnell||1437634||5210|
+29|3V3|Test Point 2.0X0.9X1.2mm SMD|TP1, TP27|TP_0805|TP_0805|2|Digi-Key||A106144CT-ND||48483|
+30|Erase|Test Point 2.0X0.9X1.2mm SMD|TP2|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+31|USB_N|Test Point 2.0X0.9X1.2mm SMD|TP3|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+32|PA15|Test Point 2.0X0.9X1.2mm SMD|TP4|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+33|USB_P|Test Point 2.0X0.9X1.2mm SMD|TP5|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+34|PA11|Test Point 2.0X0.9X1.2mm SMD|TP6|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+35|nRST|Test Point 2.0X0.9X1.2mm SMD|TP7|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+36|TDO|Test Point 2.0X0.9X1.2mm SMD|TP8|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+37|TCK|Test Point 2.0X0.9X1.2mm SMD|TP9|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+38|TMS|Test Point 2.0X0.9X1.2mm SMD|TP10|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+39|TDI|Test Point 2.0X0.9X1.2mm SMD|TP11|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+40|V_Bus|Test Point 2.0X0.9X1.2mm SMD|TP12, TP26|TP_0805|TP_0805|2|Digi-Key||A106144CT-ND||48483|
+41|Gnd|Test Point 2.0X0.9X1.2mm SMD|TP13, TP14, TP15, TP16, TP17, TP18, TP19, TP20, TP21, TP22, TP23, TP24, TP25, TP29, TP30, TP31|TP_0805|TP_0805|16|Digi-Key||A106144CT-ND||48483|
+42|VddOut|Test Point 2.0X0.9X1.2mm SMD|TP28|TP_0805|TP_0805|1|Digi-Key||A106144CT-ND||48483|
+43|ATSAM4S8BA-ANR|IC MCU 32BIT 512KB FLASH 64LQFP|U1|LQFP64_L|SE_ATSAM4S16BA-MU|1|Digi-Key||ATSAM4S8BA-ANRCT-ND||0|
+44|TSOP6136TR|Infrared Receiver 36KHz|U2|TSOP61|TSOP6136TR|1|Farnell|Digi-Key|1779685|TSOP6136TR-ND||0
+45|TLV70233DBVR|IC REG LDO 3.3V 0.3A SOT23-5|U3, U4|SOT95P280X145-5N|SV_TLV70233DBVR|2|Digi-Key||296-32415-1-ND||27296|
+46|18.432MHz|18.432 MHZ 4PF  6.0X3.5mm SMD|Y1|6.0X3.5-4|XT_CRYSTAL_18.432MHz_13pF|1|Digi-Key||CTX668CT-ND||913|
