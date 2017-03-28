@@ -1,0 +1,54 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=LibRef~String~LibRef~100|Field=Manufacturer~String~Manufacturer~100|Field=Manufacturer Part Number~String~Manufacturer Part Number~100|Field=Manufacturer PN~String~Manufacturer PN~100|Field=Quantity~Integer~Quantity~100|Field=Supplier 1~String~Supplier 1~100|Field=Supplier 2~String~Supplier 2~100|Field=Supplier Part Number 1~String~Supplier Part Number 1~100|Field=Supplier Part Number 2~String~Supplier Part Number 2~100|Field=Supplier Stock 1~Integer~Supplier Stock 1~100|Field=Supplier Stock 2~Integer~Supplier Stock 2~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MotorBoard .PrjPcb|ReportField=ProjectFullPath~P:\Courses\ENCE461\Project\wacky_race_team7\MotorBoard\MotorBoard .PrjPcb|ReportField=Title~Bill of Materials For Project [MotorBoard .PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~107|ReportField=ReportTime~11:52:15 PM|ReportField=ReportDate~3/23/2017|ReportField=ReportDateTime~3/23/2017 11:52:15 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~ECE Department|ReportField=Address2~University of Canterbury|ReportField=Address3~Christchurch 8041|ReportField=Address4~New Zealand|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/23/2017|ReportField=CurrentTime~11:48:02 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~P:\Courses\ENCE461\Project\wacky_race_team7\MotorBoard\MotorBoard.SchDoc|ReportField=DocumentName~MotorBoard.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Jono Kapene, Neeraj Patel, Hugh Paterson|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/23/2017|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.01:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=4200:PaperWidth=2970:Scale=100:PaperSource=7:PrintQuality=600:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A3 (297 x 420 mm):PaperIndex=8|ReportField=ProjectName~MotorBoard .PrjPcb|ReportField=Revision~2|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~2|ReportField=Time~|ReportField=Title~ENCE461 Motor Board|ReportField=DataSourceFileName~MotorBoard .PrjPcb|ReportField=DataSourceFullPath~P:\Courses\ENCE461\Project\wacky_race_team7\MotorBoard\MotorBoard .PrjPcb
+1||*1|UC383 5||||1||||||
+2|TERM_BLK_HEADER 5.08mm 2 Pos R/A Thru Hole|Battery1|JA_TERM_BLK_HDR_2 PIN||||1|Farnell||3704579||3694|
+3|CAP CER 10pF COG/NPO 50V 0603|C1, C2|CC_10pF_0603||||2||||||
+4|CAP CER 100nF X7R +-10% 50V 0603|C3, C4, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20|CC_100nF_0603||||12||||||
+5|CAP CER 10UF X5R +-20% 10V 0603|C5, C6, C7, C8, C9, C10|CC_10uF_0603||||6||||||
+6|CAP CER 4.7uF X5R +-20%  10V 0603|C21|CC_4.7uF_0603||||1||||||
+7|Header_Horiz_2Pos_1.25mm_125V@1A_SMT|Choose header spare 1, Choose header spare batt1|JB_53261-02|MOLEX|53261-0271||2|Farnell|Digi-Key|1125373|WM7620CT-ND|5312|46161
+8|DIODE SCHOTTKY 15V 3A SMC|D1, D2|DS_VS-30BQD015TRPBF|Vishay Semiconductor Diodes Division|VS-30BQ015TRPBF||2|Digi-Key|Farnell|30BQ015PBFCT-ND|9101250|0|-6
+9|LED Dk Green 430mcd 0603 SMD|DL1|DL_150060GS75000|WURTH ELEKTRONIK|150060GS75000||1|Farnell||2322070||9776|
+10|LED Yellow 120mcd 0603 SMD|DL2|DL_150060YS75000|WURTH ELEKTRONIK|150060YS75000||1|Farnell||2322074||16120|
+11|LED Red 250mcd 0603 SMD|DL3|DL_150060RS75000|WURTH ELEKTRONIK|150060RS75000||1|Farnell||2322071||6630|
+12|Fuse 5.0A Very Fast Acting 1206 SMD|F1|FS_Fuse_5.0A|MULTICOMP|MC12CF 005|MC12CF-005|1|Farnell||1841033||47313|
+13|Header 1.27mm Pitch SIL 10 Way SMT|GPIO and PWM Pins1|JB_M52H_10_1.27|HARWIN|M52-040000P1045||1|Farnell||1099570||-8|
+14|USB 2.0, Right Angle, SMT, B Type, Receptacle, 5 Position,|H1|JS_USB_MINI_B_SMT|FCI||10033526-N3212MLF|1|Farnell||1824416|||
+15|IDC Header, 1,27mm, 10-Pin, Vert, SMT|H2|JB_HDR_IDC_5X2_VERT|TE Connectivity|1-188275-0||1|Digi-Key||A99476TR-ND||7200|
+16|IDC Header, 1,27mm, 20-Pin, Vert, SMT|H3|JB_HDR_IDC_10X2_VERT|TE Connectivity|2-188275-0||1|Digi-Key||A99481CT-ND||4480|
+17|Ferrite Bead, Rdc 0.3R, Z100MHZ 600R, Imax 1A, SMD 1206|L1, L2|IN_Ferrite-Bead|FAIR-RITE|2512066017Y1|2512066017Y1|2|Farnell||1612060||78637|
+18||LM1|LM317 ADJ||||1||||||
+19|NPN GP Bipolar Transistor 45V 500mA SOT323|Q1, Q2, Q3, Q4|TB_BC817W|NXP||BC817W|4|Farnell||2114873||7073|
+20|RES 220 OHM 1/10W 5% 0603 SMD|R1, R5, R9, R12, R13, R14, R15, R16, R17, R18, R24|RS_220R||||11||||||
+21|RES 2.2K OHM 1/10W 5% 0603 SMD|R2, R6, R7|RS_2K2||||3||||||
+22|RES 27 OHM 1/10W 5% 0603 SMD|R3, R4|RS_27R||||2||||||
+23|RES 160K OHM 1/10W 5% 0603 SMD|R8|RS_160K||||1||||||
+24|RES 130K OHM 1/10W 5% 0603 SMD|R10|RS_130K||||1||||||
+25|RES 62 OHM 1/10W 5% 0603 SMD|R11|RS_62R||||1||||||
+26|RES 100K OHM 1/10W 5% 0603 SMD|R19, R20, R21, R22, R23|RS_100K||||5||||||
+27|RES 27K OHM 1/10W 5% 0603 SMD|R25|RS_27K||||1||||||
+28|RES 47.0K OHM 1/10W 5% 0603 SMD|R26|RS_47K||||1||||||
+29|RES 240K OHM 1/10W 5% 0603 SMD|R27|RS_240K||||1||||||
+30|RES 51.0K OHM 1/10W 5% 0603 SMD|R28|RS_51K||||1||||||
+31|RES 1R OHM 1/4W 5% 1206 SMD|R29|RT_1R||||1||||||
+32|CONN HEADER 3POS 2.54mm VERT_Thru Hole|Servo1, Speed1|JA_MOLEX_KK_3POS|Molex||22-23-2031|2|Farnell||9731156||30986|
+33|SWITCH TACTILE SPST-NO SMD|SW1|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell||1437634||809|
+34|SWITCH TACTILE SPST-NO SMD|SW2|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell||1437634||809|
+35|Test Point 2.0X0.9X1.2mm SMD|TP1, TP25, TP28|TP_0805|TE Connectivity AMP Connectors|1625854-2||3|Digi-Key||A106144CT-ND||48102|
+36|Test Point 1.65X0.9X1.2mm SMD|TP2, TP5, TP10, TP11, TP12, TP13, TP19, TP20, TP24, TP26, TP27|TP_0603|TE Connectivity AMP Connectors|1625854-3||11|Digi-Key||A106145CT-ND||131303|
+37|Test Point 2.0X0.9X1.2mm SMD|TP3, TP22|TP_0805|TE Connectivity AMP Connectors|1625854-2||2|Digi-Key||A106144CT-ND||48102|
+38|Test Point 2.0X0.9X1.2mm SMD|TP4|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+39|Test Point 2.0X0.9X1.2mm SMD|TP6|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+40|Test Point 2.0X0.9X1.2mm SMD|TP7|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+41|Test Point 2.0X0.9X1.2mm SMD|TP8|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+42|Test Point 2.0X0.9X1.2mm SMD|TP9|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+43|Test Point 2.0X0.9X1.2mm SMD|TP14|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+44|Test Point 2.0X0.9X1.2mm SMD|TP15|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+45|Test Point 2.0X0.9X1.2mm SMD|TP16|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+46|Test Point 2.0X0.9X1.2mm SMD|TP17|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+47|Test Point 2.0X0.9X1.2mm SMD|TP18|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+48|Test Point 2.0X0.9X1.2mm SMD|TP21|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+49|Test Point 2.0X0.9X1.2mm SMD|TP23|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key||A106144CT-ND||48102|
+50|Infrared Receiver 36KHz|U1|TSOP6136TR|Vishay Semiconductor Opto Division|TSOP6136TR||1|Farnell|Digi-Key|1779685|TSOP6136TR-ND||0
+51|IC MCU 32BIT 512KB FLASH 64LQFP|U2|SE_ATSAM4S16BA-MU|Atmel|ATSAM4S8BA-ANR||1|Digi-Key||ATSAM4S8BA-ANRCT-ND||0|
+52|IC REG LDO 3.3V 0.3A SOT23-5|U3|SV_TLV70233DBVR|Texas Instruments|TLV70233DBVR||1|Digi-Key||296-32415-1-ND||27041|
+53|18.432 MHZ 4PF  6.0X3.5mm SMD|Y1|XT_CRYSTAL_18.432MHz_13pF|CTS-Frequency Controls|406C35B18M43200||1|Digi-Key||CTX668CT-ND||1913|
