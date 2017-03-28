@@ -1,47 +1,47 @@
-﻿Field=#~Integer~#~50|Field=Description~String~Description~80|Field=Designator~String~Designator~80|Field=LibRef~String~LibRef~80|Field=Manufacturer~String~Manufacturer~80|Field=Manufacturer Part Number~String~Manufacturer Part Number~80|Field=Manufacturer PN~String~Manufacturer PN~80|Field=Quantity~Integer~Quantity~80|Field=Supplier 1~String~Supplier 1~80|Field=Supplier Part Number 1~String~Supplier Part Number 1~80|Field=Supplier Stock 1~Integer~Supplier Stock 1~80|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Camera Board.PrjPcb|ReportField=ProjectFullPath~H:\Courses\ENCE461\Altium\Camera Board\Camera_Board\Camera Board.PrjPcb|ReportField=Title~Bill of Materials For Project [Camera Board.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~94|ReportField=ReportTime~3:28:38 PM|ReportField=ReportDate~3/20/2017|ReportField=ReportDateTime~3/20/2017 3:28:38 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/20/2017|ReportField=CurrentTime~2:38:26 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~H:\Courses\ENCE461\Altium\Camera Board\Camera_Board\Camera.SchDoc|ReportField=DocumentName~Camera.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Lakshay Duggal, Thomas Hu|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/20/2017|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.42:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A3:PaperIndex=8|ReportField=ProjectName~Camera Board.PrjPcb|ReportField=Revision~1.0|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Camera Chip - Group 7|ReportField=DataSourceFileName~Camera Board.PrjPcb|ReportField=DataSourceFullPath~H:\Courses\ENCE461\Altium\Camera Board\Camera_Board\Camera Board.PrjPcb
-1|CAP CER 100nF X7R +-10% 50V 0603|C1, C4, C5, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17|CC_100nF_0603||||13|||
-2|CAP CER 10pF COG/NPO 50V 0603|C2, C3|CC_10pF_0603||||2|||
-3|CAP CER 10UF X5R +-20% 10V 0603|C6, C7, C19, C20|CC_10uF_0603||||4|||
-4|CAP CER 4.7uF X5R +-20%  10V 0603|C18|CC_4.7uF_0603||||1|||
-5|Ultrafast Rectifier SMD, SMA (DO-214C)|D1, D2|DR_ES1A||||2|Digi-Key|ES1AFSCT-ND|16709
-6|LED Dk Green 430mcd 0603 SMD|DL1|DL_150060GS75000|WURTH ELEKTRONIK|150060GS75000||1|Farnell|2322070|6046
-7|LED Yellow 120mcd 0603 SMD|DL2|DL_150060YS75000|WURTH ELEKTRONIK|150060YS75000||1|Farnell|2322074|16222
-8|LED Red 250mcd 0603 SMD|DL3|DL_150060RS75000|WURTH ELEKTRONIK|150060RS75000||1|Farnell|2322071|9262
-9|USB 2.0, Right Angle, SMT, B Type, Receptacle, 5 Position,|H1|JS_USB_MINI_B_SMT|FCI||10033526-N3212MLF|1|Farnell|1824416|
-10|IDC Header, 1,27mm, 10-Pin, Vert, SMT|H2|JB_HDR_IDC_5X2_VERT|TE Connectivity|1-188275-0||1|Digi-Key|A99476TR-ND|7200
-11|CONN HEADER 3POS 2.54mm VERT_Thru Hole|H3|JA_MOLEX_KK_3POS|Molex||22-23-2031|1|Farnell|9731156|33226
-12|IDC Header, 1,27mm, 20-Pin, Vert, SMT|H4|JB_HDR_IDC_10X2_VERT|TE Connectivity|2-188275-0||1|Digi-Key|A99481CT-ND|4480
-13|Ferrite Bead, Rdc 0.3R, Z100MHZ 600R, Imax 1A, SMD 1206|L1, L2|IN_Ferrite-Bead|FAIR-RITE|2512066017Y1|2512066017Y1|2|Farnell|1612060|79162
-14|NPN GP Bipolar Transistor 45V 500mA SOT323|Q1|TB_BC817W|NXP||BC817W|1|Farnell|2114873|7163
-15|RES 2.2K OHM 1/10W 5% 0603 SMD|R1, R3|RS_2K2||||2|||
-16|RES 2.2K OHM 1/10W 5% 0603 SMD|R2, R4|RS_2K2||||2|||
-17|RES 2.2K OHM 1/10W 5% 0603 SMD|R5, R10, R13, R14, R?|RS_2K2||||5|||
-18|RES 62 OHM 1/10W 5% 0603 SMD|R7|RS_62R||||1|||
-19|RES 220 OHM 1/10W 5% 0603 SMD|R8, R9|RS_220R||||2|||
-20|RES 27 OHM 1/10W 5% 0603 SMD|R11, R12|RS_27R||||2|||
-21|RES 100K OHM 1/10W 5% 0603 SMD|R15, R16, R17, R18, R19|RS_100K||||5|||
-22|RES 27K OHM 1/10W 5% 0603 SMD|R20|RS_27K||||1|||
-23|RES 47.0K OHM 1/10W 5% 0603 SMD|R21|RS_47K||||1|||
-24|RES 1R OHM 1/4W 5% 1206 SMD|R22|RT_1R||||1|||
-25|SWITCH TACTILE SPST-NO SMD|SW1|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell|1437634|5210
-26|SWITCH TACTILE SPST-NO SMD|SW2|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell|1437634|5210
-27|Test Point 2.0X0.9X1.2mm SMD|TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP15, TP16, TP17|TP_0805|TE Connectivity AMP Connectors|1625854-2||12|Digi-Key|A106144CT-ND|48483
-28|Test Point 2.0X0.9X1.2mm SMD|TP10, TP25|TP_0805|TE Connectivity AMP Connectors|1625854-2||2|Digi-Key|A106144CT-ND|48483
-29|Test Point 2.0X0.9X1.2mm SMD|TP11|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-30|Test Point 2.0X0.9X1.2mm SMD|TP12|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-31|Test Point 2.0X0.9X1.2mm SMD|TP13|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-32|Test Point 2.0X0.9X1.2mm SMD|TP14|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-33|Test Point 2.0X0.9X1.2mm SMD|TP18|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-34|Test Point 2.0X0.9X1.2mm SMD|TP19|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-35|Test Point 2.0X0.9X1.2mm SMD|TP20|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-36|Test Point 2.0X0.9X1.2mm SMD|TP21|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-37|Test Point 2.0X0.9X1.2mm SMD|TP22|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-38|Test Point 2.0X0.9X1.2mm SMD|TP23, TP24|TP_0805|TE Connectivity AMP Connectors|1625854-2||2|Digi-Key|A106144CT-ND|48483
-39|Test Point 2.0X0.9X1.2mm SMD|TP26|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|48483
-40|Test Point 2.0X0.9X1.2mm SMD|TP27, TP28, TP29, TP30, TP31, TP32|TP_0805|TE Connectivity AMP Connectors|1625854-2||6|Digi-Key|A106144CT-ND|48483
-41|Toshiba I2C Camera|U1|TCM8230MD|Toshiba|||1|Spark Fun||
-42|IC MCU 32BIT 512KB FLASH 64LQFP|U2|SE_ATSAM4S16BA-MU|Atmel|ATSAM4S8BA-ANR||1|Digi-Key|ATSAM4S8BA-ANRCT-ND|0
-43|IC REG LDO 3.3V 0.3A SOT23-5|U3|SV_TLV70233DBVR|Texas Instruments|TLV70233DBVR||1|Digi-Key|296-32415-1-ND|27296
-44|IC REG LDO 2.8V 0.3A SOT23-5|U4|SV_TLV70233DBVR|Texas Instruments|TPS78228DDCR||1|Digi-Key|296-23826-2-ND|3000
-45|IC REG LDO 1.5V 0.3A SOT23-5|U5|SV_TLV70233DBVR|Texas Instruments|TPS73115DBVR||1|Digi-Key|296-41769-2-ND|0
-46|18.432 MHZ 4PF  6.0X3.5mm SMD|Y1|XT_CRYSTAL_18.432MHz_13pF|CTS-Frequency Controls|406C35B18M43200||1|Digi-Key|CTX668CT-ND|913
+﻿Field=#~Integer~#~50|Field=Description~String~Description~80|Field=Designator~String~Designator~80|Field=LibRef~String~LibRef~80|Field=Manufacturer~String~Manufacturer~80|Field=Manufacturer Part Number~String~Manufacturer Part Number~80|Field=Manufacturer PN~String~Manufacturer PN~80|Field=Quantity~Integer~Quantity~80|Field=Supplier 1~String~Supplier 1~80|Field=Supplier Part Number 1~String~Supplier Part Number 1~80|Field=Supplier Stock 1~Integer~Supplier Stock 1~80|Field=Supplier 2~String~Supplier 2~100|Field=Supplier Part Number 2~String~Supplier Part Number 2~100|Field=Supplier Stock 2~Integer~Supplier Stock 2~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Camera Board.PrjPcb|ReportField=ProjectFullPath~H:\Courses\ENCE461\Altium\Camera Board\GITSHIT\wacky_race_team7\Camera_board\Camera Board.PrjPcb|ReportField=Title~Bill of Materials For Project [Camera Board.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~94|ReportField=ReportTime~2:14:36 PM|ReportField=ReportDate~3/26/2017|ReportField=ReportDateTime~3/26/2017 2:14:36 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/26/2017|ReportField=CurrentTime~2:07:04 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~H:\Courses\ENCE461\Altium\Camera Board\GITSHIT\wacky_race_team7\Camera_board\Camera.SchDoc|ReportField=DocumentName~Camera.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Lakshay Duggal, Thomas Hu|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/24/2017|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.42:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A3:PaperIndex=8|ReportField=ProjectName~Camera Board.PrjPcb|ReportField=Revision~1.0|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Camera Chip - Group 7|ReportField=DataSourceFileName~Camera Board.PrjPcb|ReportField=DataSourceFullPath~H:\Courses\ENCE461\Altium\Camera Board\GITSHIT\wacky_race_team7\Camera_board\Camera Board.PrjPcb
+1|CAP CER 100nF X7R +-10% 50V 0603|C1, C4, C5, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17|CC_100nF_0603||||13||||||
+2|CAP CER 10pF COG/NPO 50V 0603|C2, C3|CC_10pF_0603||||2||||||
+3|CAP CER 10UF X5R +-20% 10V 0603|C6, C7, C19, C20|CC_10uF_0603||||4||||||
+4|CAP CER 4.7uF X5R +-20%  10V 0603|C18|CC_4.7uF_0603||||1||||||
+5|DIODE SCHOTTKY 15V 3A SMC|D1, D2|DS_VS-30BQD015TRPBF|Vishay Semiconductor Diodes Division|VS-30BQ015TRPBF||2|Digi-Key|30BQ015PBFCT-ND|0|Farnell|9101250|-6
+6|LED Dk Green 430mcd 0603 SMD|DL1|DL_150060GS75000|WURTH ELEKTRONIK|150060GS75000||1|Farnell|2322070|9711|||
+7|LED Yellow 120mcd 0603 SMD|DL2|DL_150060YS75000|WURTH ELEKTRONIK|150060YS75000||1|Farnell|2322074|16045|||
+8|LED Red 250mcd 0603 SMD|DL3|DL_150060RS75000|WURTH ELEKTRONIK|150060RS75000||1|Farnell|2322071|6510|||
+9|USB 2.0, Right Angle, SMT, B Type, Receptacle, 5 Position,|H1|JS_USB_MINI_B_SMT|FCI||10033526-N3212MLF|1|Farnell|1824416||||
+10|IDC Header, 1,27mm, 10-Pin, Vert, SMT|H2|JB_HDR_IDC_5X2_VERT|TE Connectivity|1-188275-0||1|Digi-Key|A99476TR-ND|7200|||
+11|CONN HEADER 3POS 2.54mm VERT_Thru Hole|H3|JA_MOLEX_KK_3POS|Molex||22-23-2031|1|Farnell|9731156|29836|||
+12|IDC Header, 1,27mm, 20-Pin, Vert, SMT|H4|JB_HDR_IDC_10X2_VERT|TE Connectivity|2-188275-0||1|Digi-Key|A99481CT-ND|4480|||
+13|Ferrite Bead, Rdc 0.3R, Z100MHZ 600R, Imax 1A, SMD 1206|L1, L2|IN_Ferrite-Bead|FAIR-RITE|2512066017Y1|2512066017Y1|2|Farnell|1612060|77932|||
+14|NPN GP Bipolar Transistor 45V 500mA SOT323|Q1|TB_BC817W|NXP||BC817W|1|Farnell|2114873|6853|||
+15|RES 2.2K OHM 1/10W 5% 0603 SMD|R1, R3|RS_2K2||||2||||||
+16|RES 2.2K OHM 1/10W 5% 0603 SMD|R2, R4|RS_2K2||||2||||||
+17|RES 2.2K OHM 1/10W 5% 0603 SMD|R5, R6, R10, R13, R14|RS_2K2||||5||||||
+18|RES 62 OHM 1/10W 5% 0603 SMD|R7|RS_62R||||1||||||
+19|RES 220 OHM 1/10W 5% 0603 SMD|R8, R9|RS_220R||||2||||||
+20|RES 27 OHM 1/10W 5% 0603 SMD|R11, R12|RS_27R||||2||||||
+21|RES 100K OHM 1/10W 5% 0603 SMD|R15, R16, R17, R18, R19|RS_100K||||5||||||
+22|RES 27K OHM 1/10W 5% 0603 SMD|R20|RS_27K||||1||||||
+23|RES 47.0K OHM 1/10W 5% 0603 SMD|R21|RS_47K||||1||||||
+24|RES 1R OHM 1/4W 5% 1206 SMD|R22|RT_1R||||1||||||
+25|SWITCH TACTILE SPST-NO SMD|SW1|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell|1437634|14837|||
+26|SWITCH TACTILE SPST-NO SMD|SW2|WS_KSR211G LFS|C & K COMPONENTS|KSR211G LFS||1|Farnell|1437634|14837|||
+27|Test Point 2.0X0.9X1.2mm SMD|TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8, TP9, TP15, TP16, TP17|TP_0805|TE Connectivity AMP Connectors|1625854-2||12|Digi-Key|A106144CT-ND|47960|||
+28|Test Point 2.0X0.9X1.2mm SMD|TP10, TP25|TP_0805|TE Connectivity AMP Connectors|1625854-2||2|Digi-Key|A106144CT-ND|47960|||
+29|Test Point 2.0X0.9X1.2mm SMD|TP11|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+30|Test Point 2.0X0.9X1.2mm SMD|TP12|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+31|Test Point 2.0X0.9X1.2mm SMD|TP13|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+32|Test Point 2.0X0.9X1.2mm SMD|TP14|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+33|Test Point 2.0X0.9X1.2mm SMD|TP18|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+34|Test Point 2.0X0.9X1.2mm SMD|TP19|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+35|Test Point 2.0X0.9X1.2mm SMD|TP20|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+36|Test Point 2.0X0.9X1.2mm SMD|TP21|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+37|Test Point 2.0X0.9X1.2mm SMD|TP22|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+38|Test Point 2.0X0.9X1.2mm SMD|TP23, TP24|TP_0805|TE Connectivity AMP Connectors|1625854-2||2|Digi-Key|A106144CT-ND|47960|||
+39|Test Point 2.0X0.9X1.2mm SMD|TP26|TP_0805|TE Connectivity AMP Connectors|1625854-2||1|Digi-Key|A106144CT-ND|47960|||
+40|Test Point 2.0X0.9X1.2mm SMD|TP27, TP28, TP29, TP30, TP31, TP32|TP_0805|TE Connectivity AMP Connectors|1625854-2||6|Digi-Key|A106144CT-ND|47960|||
+41|Toshiba I2C Camera|U1|TCM8230MD|Toshiba|||1|Spark Fun|||||
+42|IC MCU 32BIT 512KB FLASH 64LQFP|U2|SE_ATSAM4S16BA-MU|Atmel|ATSAM4S8BA-ANR||1|Digi-Key|ATSAM4S8BA-ANRCT-ND|0|||
+43|IC REG LDO 3.3V 0.3A SOT23-5|U3|SV_TLV70233DBVR|Texas Instruments|TLV70233DBVR||1|Digi-Key|296-32415-1-ND|26862|||
+44|IC REG LDO 2.8V 0.3A SOT23-5|U4|SV_TLV70233DBVR|Texas Instruments|TPS78228DDCR||1|Digi-Key|296-23826-2-ND|6000|||
+45|IC REG LDO 1.5V 0.3A SOT23-5|U5|SV_TLV70233DBVR|Texas Instruments|TPS73115DBVR||1|Digi-Key|296-41769-2-ND|0|||
+46|18.432 MHZ 4PF  6.0X3.5mm SMD|Y1|XT_CRYSTAL_18.432MHz_13pF|CTS-Frequency Controls|406C35B18M43200||1|Digi-Key|CTX668CT-ND|1913|||
