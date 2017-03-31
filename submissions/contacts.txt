@@ -1,0 +1,40 @@
+Contact details
+===============
+
+NB., cellphone numbers are not strictly required, but are useful for the final
+PCB submissions when we don't have much time to wait for a response via email.
+
+Group leader: 
+
+Camera board
+------------
+
+Name: 
+Email: 
+Phone: 
+
+Name:
+Email:
+Phone:
+
+Comms board
+-----------
+
+Name: 
+Email:
+Phone:
+
+Name:
+Email:
+Phone:
+
+Motor board
+-----------
+
+Name:
+Email:
+Phone:
+
+Name:
+Email:
+Phone:
