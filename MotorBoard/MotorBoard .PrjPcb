@@ -124,57 +124,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GNTAEXUR
 
 [Document6]
-DocumentPath=..\..\..\ECE Components\ECE Components_15_8.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=..\..\..\ECE Components\ECE Components_16_2.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\..\..\ECE Components\ENEL461_15.3.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=Surface_mount_regulator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDCAMPWG
 
-[Document10]
+[Document7]
 DocumentPath=surfacemountreg.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NLTJFTFP
 
-[Document11]
+[Document8]
 DocumentPath=UC383_5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFYTKKQA
 
-[Document12]
+[Document9]
 DocumentPath=UC383_5_Throughole_Regulator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XPRLVLIV
 
-[Document13]
+[Document10]
 DocumentPath=IR_TSOP6136TR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GDDBYSNK
 
-[Document14]
+[Document11]
 DocumentPath=V:\AltiumDesigner\Libraries\ENCE461\ENEL461_15.4.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
