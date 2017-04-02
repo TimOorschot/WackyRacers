@@ -31,9 +31,9 @@ Phone:
 Motor board
 -----------
 
-Name:
-Email:
-Phone:
+Name: Jono Kapene
+Email: jck44@uclive.ac.nz
+Phone: 0223918037
 
 Name:
 Email:
