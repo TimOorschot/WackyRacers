@@ -9,9 +9,9 @@ Group leader:
 Camera board
 ------------
 
-Name: 
-Email: 
-Phone: 
+Name: Lakshay Duggal
+Email: ldu30@uclive.ac.nz
+Phone: 02102602009
 
 Name:
 Email:
