@@ -9,9 +9,9 @@ Group leader:
 Camera board
 ------------
 
-Name: Lakshay Duggal
-Email: ldu30@uclive.ac.nz
-Phone: 02102602009
+Name:	Lakshay Duggal
+Email:	ldu30@uclive.ac.nz
+Phone:	02102602009
 
 Name:
 Email:
@@ -20,21 +20,21 @@ Phone:
 Comms board
 -----------
 
-Name: 
-Email:
-Phone:
+Name:	Tim Oorschot
+Email:	tro35@uclive.ac.nz
+Phone:	0275744669
 
-Name:
-Email:
-Phone:
+Name:	Igor Bubanja
+Email:	ibu22@uclive.ac.nz
+Phone:	0277659998
 
 Motor board
 -----------
 
-Name: Jono Kapene
-Email: jck44@uclive.ac.nz
-Phone: 0223918037
+Name:	Jono Kapene
+Email:	jck44@uclive.ac.nz
+Phone:	0223918037
 
-Name:
-Email:
-Phone:
+Name:	Hugh Patterson
+Email:	hbp16@uclive.ac.nz
+Phone:	0272837458
